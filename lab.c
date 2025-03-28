@@ -6,20 +6,25 @@ int main() {
     scanf("%d", &choice);
     switch (choice) {
         case 1:
-            printf("You selected One.\n");
+            printf("btech \n");
             break;
 
 
  case 2:
-            printf("You selected Two.\n");
+            printf("aiml\n");
             break;
 case 3:
-            printf("You selected Three.\n");
+            printf("mechanical\n");
             break;
+case 4:
+            printf("software\n");
+            break;
+
 default:
-            printf("Invalid choice! Please enter 1, 2, or 3.\n");
+            printf("Invalid\n");
     }
 
-
+return 0;
+}
  
 }
