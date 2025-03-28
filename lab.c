@@ -18,6 +18,8 @@ case 3:
             break;
 case 4:
             printf("software\n");
+	     printf("hardware\n");
+
             break;
 
 default:
