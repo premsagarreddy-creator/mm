@@ -13,6 +13,9 @@ int main() {
  case 2:
             printf("You selected Two.\n");
             break;
+case 3:
+            printf("You selected Three.\n");
+            break;
 
  
 }
