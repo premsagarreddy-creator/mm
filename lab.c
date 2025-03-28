@@ -22,7 +22,7 @@ case 4:
 
 default:
             printf("Invalid\n");
-	    printf("thank you");
+	   
     }
 
 return 0;
