@@ -8,5 +8,11 @@ int main() {
         case 1:
             printf("You selected One.\n");
             break;
+
+
+ case 2:
+            printf("You selected Two.\n");
+            break;
+
  
 }
