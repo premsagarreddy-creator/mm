@@ -8,9 +8,7 @@ int main() {
         case 1:
             printf("btech \n");
             break;
-
-
- case 2:
+case 2:
             printf("aiml\n");
             break;
 case 3:
@@ -18,16 +16,12 @@ case 3:
             break;
 case 4:
             printf("software\n");
-	     printf("hardware\n");
-
+	    printf("hardware\n");
             break;
 
 default:
-            printf("Invalid\n");
-	   
+            printf("Invalid\n");	   
     }
-
 return 0;
 }
- 
 }
